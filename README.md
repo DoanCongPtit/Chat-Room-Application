@@ -7,7 +7,6 @@ Java Swing
 Java socket
 </br>
 <h1>Features</h1>
-</br>
 Send text among users
 </br>
 Send and save files among users
