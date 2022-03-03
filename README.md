@@ -1,3 +1,3 @@
 # Chat-Room-Application
-Coded in java Swing \n
-Support send text & file among clients
+Use java Swing and Java Socket </br>
+Support send text & files among clients
